@@ -1,0 +1,7 @@
+[package]
+name = "stats-rust"
+version = "0.0.1"
+authors = ["csteen"]
+edition = "2021"
+
+[dependencies]
